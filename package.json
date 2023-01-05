@@ -1,0 +1,25 @@
+{
+  "name": "language-recognition",
+  "version": "1.0.0",
+  "description": "language recognition using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritesh0402/Language-Recognition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritesh0402/Language-Recognition/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/ritesh0402/Language-Recognition#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.1.0",
+    "langs": "^2.0.0"
+  }
+}
